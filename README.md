@@ -19,13 +19,6 @@ The project repository contains the following files:
 - `CovidVaccinations.csv`: CSV file containing COVID-19 vaccination data
 - `sql_codes.sql`: SQL script for performing data exploration on COVID-19 cases, deaths and vaccination data
 
-## Results and Findings
-
-The analysis of COVID-19 data revealed interesting insights, including:
-
-- The countries with the highest number of COVID-19 cases and deaths
-- Variations in vaccination rates across different countries
-
 ## Acknowledgements
 
 This project is inspired by the "Alex the Analyst" YouTube channel. Special thanks to the team at Our World in Data for providing the COVID-19 data for analysis.
